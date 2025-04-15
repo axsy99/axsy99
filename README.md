@@ -2,8 +2,9 @@
 
 ## I'm an Energy Systems & Data Science student ⚡⚡
 
-# I'm interested in leveraging Data Science to guide Decarbonisation Pathways for Energy Systems, to help mititgate against Climate Change, while promoting Sustainable Development.
-# I'm currently working on ML Wind Generation Forecasting for the UK.
+- I'm interested in leveraging Data Science to guide Decarbonisation Pathways for Energy Systems, to help mititgate against Climate Change, while promoting Sustainable Development.
+
+- I'm currently working on ML Wind Generation Forecasting for the UK.
 
 <!--
 **axsy99/axsy99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
